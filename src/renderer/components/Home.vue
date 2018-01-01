@@ -10,7 +10,7 @@
             <img src="/static/ripple.gif" style="height: 200px;">
         </v-layout>
         </v-flex>
-        <!--Initialization dialog-->
+        <!--Initialization dialog sd-->
         <v-dialog v-model="initDialog" persistent max-width="500px" v-if="noInit">
             <!--<v-btn color="primary" dark slot="activator">Open Dialog</v-btn>-->
             <v-card>
